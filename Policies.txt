@@ -23,7 +23,9 @@ Seus dados são privados e não serão vendidos, compartilhados ou violados por 
 Compartilhamento de Dados
 Não compartilhamos seus dados pessoais com terceiros, exceto:
 
-Quando exigido por lei;
+1- Compromisso com a Política para famílias do Google Play
+
+2- Quando exigido por lei;
 Para proteger os direitos e a segurança dos usuários ou da empresa.
 Cookies e Tecnologias Semelhantes
 Nosso jogo pode usar ferramentas de análise (como Google Play Services) que utilizam cookies ou tecnologias similares para coletar dados anônimos. Esses dados nos ajudam a entender como o jogo é usado e a melhorar sua performance.
